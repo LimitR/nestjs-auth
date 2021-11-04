@@ -12,6 +12,12 @@ JSON = {
     "password": "sefsef234f" // string
 }
 ```
+Ответ
+```javascript
+JSON = {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImVxcXEyM2Zlc0BtYWkudHUiLCJpZCI6MiwiaWF0IjoxNjM2MDYxNzkyLCJleHAiOjE2Mzg2NTM3OTJ9.GliBIJWrlf-llaIfV0PdIKqWrHiKCB7lPvVj7DhAr2I" // string
+}
+```
 
 ## Вход
 

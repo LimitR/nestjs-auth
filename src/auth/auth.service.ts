@@ -59,7 +59,7 @@ export class AuthService {
         user_val.token = await token.token
         user_val.save() //
 
-        return user_val.refresh_token
+        return JSON.stringify({"token": user_val.refresh_token})
 
     }
 
